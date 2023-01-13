@@ -1,0 +1,14 @@
+{
+  "name": "first-project-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indes.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
